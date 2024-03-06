@@ -1,0 +1,4 @@
+Como requerimiento principal es una base de datos local llamada app-flash y una tabla users
+se usó mysqlconnector
+flask y os
+Obviamente el microframework Flask tambien, que fue usado en un entorno virtual en mi caso.
